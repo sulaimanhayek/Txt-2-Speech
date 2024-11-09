@@ -1,0 +1,6 @@
+streamlit
+transformers
+soundfile
+torch
+datasets[audio]
+sentencepiece
